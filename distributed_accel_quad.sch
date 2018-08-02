@@ -186,10 +186,6 @@ F 3 "~" H 7250 3100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7250 2800 7250 3100
-Text GLabel 8100 2200 2    50   Input ~ 0
-3.3V
-Wire Wire Line
-	7950 2200 8100 2200
 Wire Wire Line
 	7950 2100 8500 2100
 $Comp
